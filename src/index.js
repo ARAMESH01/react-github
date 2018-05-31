@@ -19,7 +19,7 @@ const CardList = props => (
 const githubUsers = [
   {
     avatar_url: "https://avatars3.githubusercontent.com/u/58716?v=4",
-    name: "Raghava Nellaturu",
+    name: "Aparna Ramesh",
     blog: ""
   },
   {
